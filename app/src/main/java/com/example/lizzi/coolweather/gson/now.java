@@ -12,7 +12,7 @@ public class Now {
     @SerializedName("comd")
     public More more;
     public class More{
-        @SerializedName("txt")
+        @SerializedName("txt_d")
         public String info;
     }
 
